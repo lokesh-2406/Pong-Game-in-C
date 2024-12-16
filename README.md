@@ -1,1 +1,1 @@
-# ANN-in-C
+# Pong-Game-in-C
